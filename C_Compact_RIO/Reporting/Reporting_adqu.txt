@@ -1,0 +1,6 @@
+Train direction: 
+CRIO Temperature: 
+Passing train time: 
+Wheels detected by WS1: 
+Wheels detected by WS2: 
+TAG detected: 

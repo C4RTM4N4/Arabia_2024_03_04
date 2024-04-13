@@ -1,0 +1,1 @@
+Mirar si se utiliza en alguna parte la distancia entre ejes del mismo bogie porque en Euskotren depende

@@ -1,0 +1,65 @@
+[Adquisicion]
+Parametros0 = Frecuencia de muestreo y módulo CRIO
+Parametros1 = Escaneos de la FIFO por canal
+Parametros2 = Frecuencia de muestreo (Hz)
+Parametros3 = dt RMS
+Parametros4 = Tiempo extra al detector de paso (s)
+Parametros5 = Count(mSec)
+Parametros6 = Offset_rueda ws1
+Parametros7 = Offset_rueda ws2
+Parametros8 = Parametro acel 1
+Parametros9 = Parametro acel 2
+Parametros10 = Parametro acel 3
+Parametros11 = Parametro acel 4
+Parametros12 = Parametro acel 5
+Parametros13 = Parametro acel 6
+Parametros14 = Parametro acel 7
+Parametros15 = Parametro acel 8
+Parametros16 = Nº Acelerómetros
+Parametros17 = Nº Wheel Sensor
+Parametros18 = Nº max archivos permitido
+Parametros19 = MB mín de memoria libre
+Parametros20 = Mb libre OK
+Parametros21 = Timeout sino se miden las mismas ruedas
+Parametros22 = Pattern amplitude (g)
+Parametros23 = Pattern frequency (Hz)
+Parametros24 = Tiempo de adquisicion (s)
+Parametros25 = rango ruido amisible
+Parametros26 = Frecuencia para filtro paso bajo
+
+[Comunicacion]
+Parametros0 = Hash AURA wheel
+Parametros1 = ID AURA wheel
+Parametros2 = URL AURA wheel
+Parametros3 = Hora de borrado (no se usa cambiar)
+Parametros4 = IP RFID
+Parametros5 = IP Sync
+Parametros6 = IP RFID LR6HD
+Parametros7 = Hora inicio subidad de fallo de comunicación
+Parametros8 = Hora finalización
+Parametros9 = Hash AURA wheel health
+Parametros10 = ID AURA wheel health
+Parametros11 = URL AURA wheel health
+ 
+[Puertos]
+Parametros0 = Puerto RFID
+Parametros1 = IP RFID LR6HD
+Parametros2 = Timeout RFID
+Parametros3 = Bytes to read
+Parametros4 = Devices RFID
+Parametros5 = Limite max acel health
+Parametros6 = Limite min acel Health
+
+[Opciones]
+Parametros0 = RFID NEM On-->deberia estar a falso
+Parametros1 = RFID GEN On-->deberia estar a falso
+Parametros2 = Usar Aura?-->deberia estar a true
+Parametros3 = Leer config RFID NEM
+Parametros4 = Canal cero WS1?
+Parametros5 = Canal cero WS2?
+Parametros6 = Digital?
+Parametros7 = Reset watchdog
+Parametros8 = Disable watchdog
+Parametros9 = No borrar archivos adquisicion
+Parametros10 = AURA wheel test-->poner a TRUE si no lo esta
+Parametros11 = Save calibration   

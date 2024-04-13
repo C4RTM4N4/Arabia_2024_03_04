@@ -1,0 +1,46 @@
+Passive RFID -> 
+Active RFID -> 
+A.U.R.A. connection -> 
+READ NEM Config -> 
+Zero channel WS 1 ->
+Zero channel WS 2 ->
+Digital acquisition WS -> 
+Reset watchdog -> 
+Able watchdog -> 
+Erase adquisition files with errors -> 
+A.U.R.A. wheel connection test ->
+Save Calibration -> 
+Passive RFID port ->
+Active RFID port ->
+Timeout ->
+Bytes to read ->
+Active RFID address -> 
+Passive RFID IP ->
+Syncrhonization IP ->
+Active RFID IP ->
+A.U.R.A. wheel parameters -> 
+Frequency and CRIO module -> 
+Samples per channel -> 
+Frequency -> 
+dt RMS -> 
+Extra time to detection ->
+Count -> 
+Trigger WS1 ->
+Trigger WS2 ->
+Accelerometers number ->
+WS number -> 
+Files max -> 
+Min free bytes -> 
+Free bytes after erasing -> 
+Wheels timeout -> 
+Pattern amplitude (g) -> 
+Pattern frequency (Hz) -> 
+Acq time (s) ->
+Sensivity Accelerometer 1 -> 
+Sensivity Accelerometer 2 -> 
+Sensivity Accelerometer 3 -> 
+Sensivity Accelerometer 4 -> 
+Sensivity Accelerometer 5 -> 
+Sensivity Accelerometer 6 -> 
+Sensivity Accelerometer 7 -> 
+Sensivity Accelerometer 8 -> 

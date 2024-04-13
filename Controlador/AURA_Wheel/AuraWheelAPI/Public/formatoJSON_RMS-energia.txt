@@ -1,0 +1,39 @@
+{
+"g_ts": 0,
+"p_sp": 0,
+"p_tp": 0,
+"p_tg": {
+	"tg_n": 0,
+	"tg_t": ""}
+"p_ax": {
+	"ax_n": 0,
+	"ax_sp": 0,
+	"ax_wh": [
+		{
+			"wh_p": 0,
+			"wh_a1": 0,
+			"wh_a2": 0,
+			"wh_a3": 0,
+			"wh_a4": 0}],		# hasta aquí era el original (sólo RMS)
+	"ax_fq": [
+		{
+			"wh_p": 0,
+			"wh_a1": 0,
+			"wh_a2": 0,
+			"wh_a3": 0,
+			"wh_a4": 0}],
+	"ax_amp": [
+		{
+			"wh_p": 0,
+			"wh_a1": 0,
+			"wh_a2": 0,
+			"wh_a3": 0,
+			"wh_a4": 0}],
+	"ax_en": [
+		{
+			"wh_p": 0,
+			"wh_a1": 0,
+			"wh_a2": 0,
+			"wh_a3": 0,
+			"wh_a4": 0}]
+}

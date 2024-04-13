@@ -1,0 +1,4 @@
+Correct acquisition (same axles expected and detected): 
+Axles expected: 
+Axles detected: 
+Bytes free in Hard Drive: 
