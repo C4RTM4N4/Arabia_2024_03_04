@@ -62,4 +62,8 @@ Parametros7 = Reset watchdog
 Parametros8 = Disable watchdog
 Parametros9 = No borrar archivos adquisicion
 Parametros10 = AURA wheel test-->poner a TRUE si no lo esta
-Parametros11 = Save calibration   
+Parametros11 = Save calibration  
+
+[Diagnosis]
+Parametros0 = valor a comparar con el dado por los inductivos
+Parametros1 = valor a comparar con el dado por los acelerometros
