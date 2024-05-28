@@ -1,0 +1,2 @@
+C:\Users\82784\Documents\lab-wrd-Inycom-diagnosis\Controlador\MEtren_05_03_14\WHD_VEten_0.1.6.WS_BIDIR_Cal_26_01_2024.vi (WHD_VEten_0.1.6.WS_BIDIR_Cal_26_01_2024.vi)
+    - The file expected to be at "C:\Users\82784\Documents\lab-wrd-Inycom-diagnosis\Controlador\FPGA Bitfiles\W_RDArabia_FPGATarget_FPGA8a2wsBIdirec_yJvL9yuTbZw.lvbitx" was loaded from "C:\Users\82784\Documents\lab-wrd-Inycom-diagnosis\Controlador\FPGA Bitfiles\WRDArabia_FPGATarget_FPGA8a2wsBIdirec_pdg683fU6LY.lvbitx".
